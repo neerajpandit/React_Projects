@@ -9,7 +9,7 @@ function Card({username}) {
       <div className="p-4">
         <h1 className="text-lg font-semibold">{username}</h1>
         <p className="mt-3 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, debitis?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, debitis? moye moye
         </p>
         <button
           type="button"
